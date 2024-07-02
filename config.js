@@ -66,9 +66,9 @@ const aIMG = [
     "https://services.swpc.noaa.gov/images/animations/d-rap/global/d-rap/latest.png",
   ],
   [
-    "ISS & RS-44 POSITION",
-    "https://www.heavens-above.com/orbitdisplay.aspx?icon=iss&width=600&height=300&mode=M&satid=25544",
-    "https://www.heavens-above.com/orbitdisplay.aspx?icon=default&width=600&height=300&mode=M&satid=44909",
+    "CURRENT HAZARDS",
+    "https://x-hv1.pivotalweather.com/maps/warnings/nwshaz.conus.png",
+    
   ],
   [
     "SATELLITE CAN",
@@ -88,13 +88,18 @@ const aIMG = [
   ],
   ["GREY LINE", "https://www.timeanddate.com/scripts/sunmap.php?iso=now"],
   [
-    "Forecast & Activity", 
+    "FORECAST & ACTIVITY", 
     "https://www.wpc.ncep.noaa.gov/noaa/noaa.gif", 
     "https://www.spc.noaa.gov/exper/mesoanalysis/activity_loop.gif", 
     "https://www.spc.noaa.gov/products/watch/validww.png", 
     "https://www.spc.noaa.gov/products/exper/day4-8/day48prob.gif", 
     "https://www.wpc.ncep.noaa.gov/threats/final/hazards_d3_7_contours.png", 
     "https://www.wpc.ncep.noaa.gov/qpf/fill_94qwbg.gif",
+    "https://schumacher.atmos.colostate.edu/hilla/csu_mlp/latest/day1_3panel_latest.png",
+    "https://schumacher.atmos.colostate.edu/hilla/csu_mlp/latest/day2_3panel_latest.png",
+    "https://schumacher.atmos.colostate.edu/hilla/csu_mlp/latest/day3_nospc_latest.png",
+    "https://x-hv1.pivotalweather.com/maps/cpc/latest/610temp.conus.png",
+    "https://x-hv1.pivotalweather.com/maps/ndfd/latest/ndfd_sfctmax.conus.png",
   ],
   ["DAILY FORECAST", 
   "https://www.weather.gov/images/fwd/graphicast/image_full1.jpg", 
@@ -104,7 +109,7 @@ const aIMG = [
   "https://www.weather.gov/images/fwd/adas/heatindex_sfc_loop.gif", 
   "https://www.cpc.ncep.noaa.gov/products/stratosphere/uv_index/uvi_map.gif"
   ],
-  ["Tropics", 
+  ["TROPICS", 
   "https://cdn.star.nesdis.noaa.gov/GOES16/ABI/SECTOR/taw/Sandwich/GOES16-TAW-Sandwich-900x540.gif", 
   "https://cdn.star.nesdis.noaa.gov/GOES16/ABI/SECTOR/se/Sandwich/1200x1200.jpg", 
   "https://cdn.star.nesdis.noaa.gov/GOES16/ABI/SECTOR/car/Sandwich/500x500.jpg", 
